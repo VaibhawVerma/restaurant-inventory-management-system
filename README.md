@@ -1,4 +1,4 @@
-# Restaurant Inventory & Management System
+# Restaurant BI & Inventory System
 
 A comprehensive, multi-user desktop application designed to manage a restaurant's core operations, from inventory and recipe management to point-of-sale and business analytics. This system provides a robust backend powered by MySQL and an intuitive graphical user interface built with Python.
 
